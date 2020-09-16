@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.title{
+  width:100%;
+  text-align: center;
+  text-decoration-line: underline;
+  font-size: 3rem;
+}
+
+.card-title{
+  color:black;
+  background-color: black;
+}
+
+.carthome{
+  width: 100%;
+}
+
+nav{
+  margin-bottom: 2rem;
+}
+
+.card-image{
+  height: 200px;
+}
+
+img{
+  height: 270px;
+}
+
+.card-content{
+  text-align: center;}
+
+.paypal{
+  width: 100vw;
+  margin:1rem 5rem ;
+}

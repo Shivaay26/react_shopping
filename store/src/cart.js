@@ -20,6 +20,7 @@ const Cart = ({cartitems,RemoveCartItem}) => {
                     <div className="card-action">
                         <button className="waves-effect waves-light btn" 
                         onClick={()=>RemoveCartItem(item.id)}>remove</button>
+                        
                     </div>
 
             </div>
